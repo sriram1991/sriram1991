@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sriram1991
-- 👀 I’m interested in Cloud Native apps mobile and web
+- 👀 I’m interested in Developing Cloud Native apps mobile and web
 - 🌱 I’m currently learning AWS, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail:sriram.shamrao74@gmail.com
